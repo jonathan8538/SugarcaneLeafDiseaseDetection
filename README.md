@@ -26,8 +26,8 @@ SVM with GridSearchCV: Trained with optimized hyperparameters
 
 6) Model Evaluation
 
-Baseline SVM achieved 94% accuracy
+Baseline SVM achieved 96% accuracy
 
-GridSearchCV-tuned SVM achieved 97% accuracy
+GridSearchCV-tuned SVM achieved 98% accuracy
 Note: The difference may be influenced by random sampling done in data splitting.
 
